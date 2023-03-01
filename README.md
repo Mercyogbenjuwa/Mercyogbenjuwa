@@ -2,7 +2,7 @@ About me
 
 👋 Hi, I’m @Mercyogbenjuwa
 
-💼 Software Engineer at Decagon
+💼 Software Engineer 
 
 👀 I’m interested in fullstack Development Roles
 
